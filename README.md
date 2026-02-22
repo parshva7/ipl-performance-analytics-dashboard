@@ -17,8 +17,8 @@ Interactive Tableau dashboard analyzing 17 seasons (2008–2024) of IPL ball-by-
 - KPI cards
 - Multi-sheet dashboard layout
 
-## Dashboard Preview
-[[IPL Dashboard](dashboard-preview.png)](https://public.tableau.com/views/IPL2008-2024Analysis_17710097503820/STATS)
+## Live Dashboard
+[Click here to explore the dashboard](https://public.tableau.com/views/IPL2008-2024Analysis_17710097503820/STATS)
 
 ## Tools Used
 - Tableau
