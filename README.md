@@ -89,7 +89,7 @@ This dashboard transforms raw IPL data into interactive visualizations, helping 
 
 ## 📸 Dashboard Preview
 
-![IPL Dashboard](Screenshot 2026-02-22 at 13.35.06.png)
+![IPL Dashboard](dashboard_1.png)
 ---
 
 ## 👨‍💻 Author
