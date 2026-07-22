@@ -89,8 +89,7 @@ This dashboard transforms raw IPL data into interactive visualizations, helping 
 
 ## 📸 Dashboard Preview
 
-> Add a screenshot of your Tableau dashboard here.
-
+![IPL Dashboard](dashboard.png)
 ---
 
 ## 👨‍💻 Author
