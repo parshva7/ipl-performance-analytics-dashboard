@@ -5,6 +5,7 @@
 An interactive Tableau dashboard built for cricket enthusiasts to explore **17 IPL seasons (2008–2024)** through player statistics, head-to-head battles, and match-winning performances. Whether you're debating the best finisher, comparing bowlers, or analyzing player consistency, this dashboard puts the numbers at your fingertips.
 
 ---
+
 <p>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
