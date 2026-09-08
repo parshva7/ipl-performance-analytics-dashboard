@@ -1,4 +1,8 @@
 # 🏏 IPL Performance Analytics Dashboard
+<p>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+</p>
 
 > **Every ball tells a story. This dashboard helps you uncover it.**
 
@@ -6,10 +10,7 @@ An interactive Tableau dashboard built for cricket enthusiasts to explore **17 I
 
 ---
 
-<p>
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-</p>
 ## 📊 What's Inside?
 
 Dive deep into **200,000+ ball-by-ball records** and explore insights from every IPL season.
